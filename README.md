@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/LabiLB/makefun-beginner-guide/rank.svg)](https://make.fun/c/bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/LabiLB/makefun-beginner-guide/reward.svg)](https://make.fun/c/bring-the-humans-02)
 
+This guide is an entry in make.fun's [bring-the-humans-02 bounty](https://make.fun/bounty/bring-the-humans-02) — a $1,000 bounty competition for beginner guides like this one.
+
 ## What is make.fun?
 
 make.fun is a bounty platform where you and an AI coding agent build software together for cash prizes. Each competition on the site sets a task, a deadline, and a prize. You enter with your agent, the agent writes the code, and if your entry places, the prize is paid out in USDC on Solana. Every entry has to include the transcripts of the agent sessions that built it — the recorded logs of your agent at work — so the house can check the work really came from your agent.
